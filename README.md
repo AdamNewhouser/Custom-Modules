@@ -25,3 +25,13 @@ Sample custom modules of commonly used website sections
 <a href='https://www.globalhomeinc.com'>Global Home Improvement</a>
 
 ![gallery-global-home](https://github.com/user-attachments/assets/58b916a4-3d32-4aec-b7e3-de168caa271d)
+
+<h2>template-parts/product-selector-2.php</h2>
+<a href='https://machitechautom.wpengine.com/'>Machitech Automation</a>
+
+![prod-select-machitech](https://github.com/user-attachments/assets/cf109193-853b-4033-a9b5-c7a3eff64ade)
+
+<h2>template-parts/footer-map-parallax.php</h2>
+<a href='https://machitechautom.wpengine.com/'>Machitech Automation</a>
+
+![footer-machitech](https://github.com/user-attachments/assets/55b407dd-bafb-45b1-bad7-66830967ac4d)
